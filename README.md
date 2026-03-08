@@ -1,4 +1,7 @@
 # 💫 Hello
+
+## About Me
+
 With 6+ years of hardening infotainment systems for Porsche, Audi, and Volkswagen, I’ve traded vehicle test benches for LangGraph & LangChain workflows. I don't just build models; I engineer "production-first" AI systems defined by the same high-stakes reliability required by world-class brands. By bridging ML classifiers with deep LangSmith observability, I’m crafting autonomous agents that are as robust, tested, and high-performance as the engines I once verified.
 
 ## Core Technical Stack:
